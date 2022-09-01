@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 ## Preprints
-1. Enyan Dai, Tianxiang Zhao, Huaisheng Zhu, **Junjie Xu**, Zhimeng Guo, Hui Liu, Jiliang Tang, and Suhang Wang. "A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability." \[[paper](https://arxiv.org/pdf/2204.08570.pdf)] submitted to **TIST**.
+1. Enyan Dai, Tianxiang Zhao, Huaisheng Zhu, **Junjie Xu**, Zhimeng Guo, Hui Liu, Jiliang Tang, and Suhang Wang. "A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability." Submitted to **TIST** [[Paper](https://arxiv.org/pdf/2204.08570.pdf)] 
 
 
 
