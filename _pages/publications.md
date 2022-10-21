@@ -23,7 +23,7 @@ author_profile: true
 ## Conference Paper
 
 ### 2022
-1. **Junjie Xu**, Enyan Dai, Xiang Zhang, Suhang Wang. "HP-GMN:Graph Memory Networks for Heterophilous Graphs" Accepted by The IEEE International Conference on Data Mining **(ICDM 2022)**
+1. **Junjie Xu**, Enyan Dai, Xiang Zhang, Suhang Wang. "HP-GMN:Graph Memory Networks for Heterophilous Graphs" Accepted by The IEEE International Conference on Data Mining **(ICDM 2022)** [[Paper]](https://arxiv.org/abs/2210.08195) [[Code]](https://github.com/junjie-xu/HP-GMN)
 
 ### 2021
 1. Kwei-Herng Lai, Daochen Zha, **Junjie Xu**, Yue Zhao, Guanchu Wang, Xia Hu. "Revisiting Time Series Outlier Detection: Definitions and Benchmarks" In Neural Information Processing Systems, Datasets and Benchmarks Track **(NeurIPS 2021)** [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)
