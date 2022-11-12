@@ -12,7 +12,7 @@ Hi! I'm Junjie Xu, a second-year Ph.D. student in the College of [Information Sc
 
 
 ## News
-I'm actively seeking for machine learning internship for 2023 summer. Please contact me if you are interested!
+* I'm actively seeking for machine learning internship for 2023 summer. Please contact me if you are interested!
 * 08/2022: One paper got accepted by ICDM 2022. Thank my collaborators and advisors!
 * 05/2022: Very pleased to pass my Qualifying Exam and become a Ph.D. candidate.
 * 04/2022: A comprehensive survey on trustworthy graph neural networks is released! [[Paper]](https://arxiv.org/pdf/2204.08570.pdf)
