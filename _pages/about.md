@@ -14,6 +14,7 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, Geom
 
 
 ## News
+* 10/2023: Preprint [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/pdf/2310.10064.pdf).
 * 09/2023: Invited as a reviewer for ICLR 2024.
 * 08/2023: Invited as a reviewer for LoG 2023.
 * 04/2023: Invited as a reviewer for NeurIPS 2023, covering both the main track and the datasets & benchmarks track.
