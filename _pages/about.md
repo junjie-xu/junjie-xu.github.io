@@ -17,12 +17,12 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, Geom
 * 10/2023: Preprint [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/pdf/2310.10064.pdf).
 * 09/2023: Invited as a reviewer for ICLR 2024.
 * 08/2023: Invited as a reviewer for LoG 2023.
-* 04/2023: Invited as a reviewer for NeurIPS 2023, covering both the main track and the datasets & benchmarks track.
+* 04/2023: Invited as a reviewer for NeurIPS 2023, both the main track and the datasets & benchmarks track.
 * 08/2022: One paper got accepted by ICDM 2022. Thank my collaborators and advisors!
 * 05/2022: Very pleased to pass my Qualifying Exam and become a Ph.D. candidate.
-* 04/2022: A comprehensive survey on trustworthy graph neural networks is released! [[Paper]](https://arxiv.org/pdf/2204.08570.pdf)
+* 04/2022: A comprehensive survey on trustworthy graph neural networks is released. [[Paper]](https://arxiv.org/pdf/2204.08570.pdf)
 * 08/2021: Start my Ph.D. career at Penn State Univeristy.
-* 06/2021: Finish my bachelor's degree in HUST. Thank all.
+* 06/2021: Finish my bachelor's degree in HUST.
 * 06/2021: One paper got accepted by the Datasets and Benchmarks track of NeurIPS 2021. [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)
 * 05/2021: Welcome to Star and use our Time-series Outlier Detection package. [[Docs]](https://tods-doc.github.io) [[Code]](https://github.com/datamllab/tods)
 
@@ -30,9 +30,11 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, Geom
 
 ## Teaching
 Teaching Assistant, DS 305: Algorithmic Methods & Tools, PSU, Fall 2023
+Teaching Assistant, IST 597: Machine Learning on Graphs, PSU, Spring 2024
+Teaching Assistant, HCDD 364W: Method Users, PSU, Spring 2024
 
 
 
 ## Service
-Reviewer: ICLR(2024); NeurIPS (2023, 2022); WWW (2022); KDD (2023, 2022); ICDM (2023, 2022); BigData (2023); TKDD
+Reviewer: ICLR (2024); NeurIPS (2023, 2022); KDD (2023, 2022); WWW (2022); WSDM (2023); ICDM (2023, 2022); BigData (2023); TKDD, PAKDD (2024, 2023)
 
