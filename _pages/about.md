@@ -31,7 +31,7 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, Geom
 ## Teaching
 Teaching Assistant, DS 305: Algorithmic Methods & Tools, PSU, Fall 2023  
 Teaching Assistant, IST 597: Machine Learning on Graphs, PSU, Spring 2024  
-Teaching Assistant, HCDD 364W: Method Users, PSU, Spring 2024  
+Teaching Assistant, HCDD 364W: Methods for Studying Users, PSU, Spring 2024  
 
 
 
