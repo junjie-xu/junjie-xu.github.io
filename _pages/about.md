@@ -14,9 +14,10 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, Larg
 
 
 ## News
+* 04/2024: Our survey paper about Trustworthy GNN is accepted by Machine Intelligence Research.
+* 12/2023: Invited as a reviewer for ICML 2024.
 * 10/2023: Preprint [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/pdf/2310.10064.pdf).
 * 09/2023: Invited as a reviewer for ICLR 2024.
-* 08/2023: Invited as a reviewer for LoG 2023.
 * 04/2023: Invited as a reviewer for NeurIPS 2023, both the main track and the datasets & benchmarks track.
 * 08/2022: One paper got accepted by ICDM 2022. Thank my collaborators and advisors!
 * 05/2022: Very pleased to pass my Qualifying Exam and become a Ph.D. candidate.
