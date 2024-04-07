@@ -45,5 +45,5 @@ author_profile: true
 
 1. A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability  
    Enyan Dai, Tianxiang Zhao, Huaisheng Zhu, **Junjie Xu**, Zhimeng Guo, Hui Liu, Jiliang Tang, Suhang Wang  
-   Machine Intelligence Research [[Paper](https://arxiv.org/pdf/2204.08570.pdf)]
+   **Machine Intelligence Research** [[Paper](https://arxiv.org/pdf/2204.08570.pdf)]
    
