@@ -10,16 +10,18 @@ redirect_from:
 
 Hi! I'm Junjie Xu, a third-year Ph.D. student in the College of [Information Sciences and Technology](https://ist.psu.edu) at [The Pennsylvania State University](https://www.psu.edu/). I'm co-advised by Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/) and Prof. [Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my Bachelor's degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn) in 2021. 
 
-My research interests lie in Machine Learning, Data Mining, Graph Learning, Large Language Model, and AI for Science.
+My research interests lie in Machine Learning, Data Mining, Graph Learning, AI for Science, and Large Language Models.
 
 
 ## News
+* 06/2024: Check out our preprint on distilling large language models for multimodal graph learning [Paper](https://arxiv.org/pdf/2406.01032).
+* 05/2024: Start a new position as a Research Intern at Johnson & Johnson.
 * 04/2024: Our survey paper about Trustworthy GNN is accepted by Machine Intelligence Research.
 * 12/2023: Invited as a reviewer for ICML 2024.
 * 10/2023: Preprint [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/pdf/2310.10064.pdf).
 * 09/2023: Invited as a reviewer for ICLR 2024.
 * 04/2023: Invited as a reviewer for NeurIPS 2023, both the main track and the datasets & benchmarks track.
-* 08/2022: One paper got accepted by ICDM 2022. Thank my collaborators and advisors!
+* 08/2022: One paper is accepted by ICDM 2022. Thank my collaborators and advisors!
 * 05/2022: Very pleased to pass my Qualifying Exam and become a Ph.D. candidate.
 * 04/2022: A comprehensive survey on trustworthy graph neural networks is released. [[Paper]](https://arxiv.org/pdf/2204.08570.pdf)
 * 08/2021: Start my Ph.D. career at Penn State Univeristy.
