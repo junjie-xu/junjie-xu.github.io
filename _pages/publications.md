@@ -16,11 +16,15 @@ author_profile: true
 {% endfor %} -->
 
 ## Preprints
-1. Shape-aware Graph Spectral Learning  
-   **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang  
-   Submitted to **ICLR 2024** [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]  
+1. LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning
+   **Junjie Xu**, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang
+   [[Paper](https://arxiv.org/pdf/2406.01032)]  
 
-2. Self-Explainable Graph Neural Networks for Link Prediction
+2. Shape-aware Graph Spectral Learning  
+   **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang  
+   [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]  
+
+3. Self-Explainable Graph Neural Networks for Link Prediction
    Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang  
 
 
