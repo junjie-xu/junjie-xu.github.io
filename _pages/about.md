@@ -14,7 +14,7 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, AI f
 
 
 ## News
-* 06/2024: Check out our preprint on distilling large language models for multimodal graph learning [Paper](https://arxiv.org/pdf/2406.01032).
+* 06/2024: Check out our preprint on distilling LLMs for multimodal graph learning [Paper](https://arxiv.org/pdf/2406.01032).
 * 05/2024: Start a new position as a Research Intern at Johnson & Johnson.
 * 04/2024: Our survey paper about Trustworthy GNN is accepted by Machine Intelligence Research.
 * 12/2023: Invited as a reviewer for ICML 2024.
