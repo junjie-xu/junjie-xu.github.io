@@ -17,19 +17,19 @@ author_profile: true
 
 ## Preprints
 1. LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning  
-   **Junjie Xu**, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang
+   **Junjie Xu**, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2406.01032)]  
 
 2. Shape-aware Graph Spectral Learning    
-   **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang  
+   **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang   
    [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]
 
 3. Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Network   
-   Zhiwei Zhang, Minhua Lin, **Junjie Xu**, Zongyu Wu, Enyan Dai, Suhang Wang
+   Zhiwei Zhang, Minhua Lin, **Junjie Xu**, Zongyu Wu, Enyan Dai, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2406.09836)]   
 
 5. Self-Explainable Graph Neural Networks for Link Prediction  
-   Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang
+   Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2305.12578)]  
 
 
