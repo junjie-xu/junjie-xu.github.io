@@ -16,22 +16,27 @@ author_profile: true
 {% endfor %} -->
 
 ## Preprints
-1. LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning
+1. LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning  
    **Junjie Xu**, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang
    [[Paper](https://arxiv.org/pdf/2406.01032)]  
 
-2. Shape-aware Graph Spectral Learning  
+2. Shape-aware Graph Spectral Learning    
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang  
-   [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]  
+   [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]
 
-3. Self-Explainable Graph Neural Networks for Link Prediction
-   Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang  
+3. Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Network   
+   Zhiwei Zhang, Minhua Lin, **Junjie Xu**, Zongyu Wu, Enyan Dai, Suhang Wang
+   [[Paper](https://arxiv.org/pdf/2406.09836)]   
+
+5. Self-Explainable Graph Neural Networks for Link Prediction  
+   Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang
+   [[Paper](https://arxiv.org/pdf/2305.12578)]  
 
 
 
 ## Conference Paper  
 
-1. HP-GMN:Graph Memory Networks for Heterophilous Graphs  
+1. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
    **Junjie Xu**, Enyan Dai, Xiang Zhang, Suhang Wang  
    The IEEE International Conference on Data Mining **(ICDM 2022)** [[Paper]](https://arxiv.org/abs/2210.08195) [[Code]](https://github.com/junjie-xu/HP-GMN)  
 
@@ -47,7 +52,7 @@ author_profile: true
 
 ## Journal Paper  
 
-1. A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability  
-   Enyan Dai, Tianxiang Zhao, Huaisheng Zhu, **Junjie Xu**, Zhimeng Guo, Hui Liu, Jiliang Tang, Suhang Wang  
-   **Machine Intelligence Research** [[Paper](https://arxiv.org/pdf/2204.08570.pdf)]
+1. A Comprehensive Survey on Trustworthy Graph Neural Networks: Privacy, Robustness, Fairness, and Explainability   
+   Enyan Dai, Tianxiang Zhao, Huaisheng Zhu, **Junjie Xu**, Zhimeng Guo, Hui Liu, Jiliang Tang, Suhang Wang   
+   **Machine Intelligence Research** [[Paper](https://arxiv.org/pdf/2204.08570.pdf)]  
    
