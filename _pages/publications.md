@@ -20,31 +20,34 @@ author_profile: true
    **Junjie Xu**, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2406.01032)]  
 
-2. Shape-aware Graph Spectral Learning    
-   **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang   
-   [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]
-
-3. Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Network   
+2. Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Network   
    Zhiwei Zhang, Minhua Lin, **Junjie Xu**, Zongyu Wu, Enyan Dai, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2406.09836)]   
 
-5. Self-Explainable Graph Neural Networks for Link Prediction  
+3. Self-Explainable Graph Neural Networks for Link Prediction  
    Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2305.12578)]  
 
 
 
 ## Conference Paper  
+1. Shape-aware Graph Spectral Learning    
+   **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
+   ACM International Conference on Information and Knowledge Management **(CIKM 2024)** [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]  
 
-1. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
+2. HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training      
+   Fali Wang, Tianxiang Zhao, **Junjie Xu**, Suhang Wang    
+   ACM International Conference on Information and Knowledge Management **(CIKM 2024)**   
+   
+3. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
    **Junjie Xu**, Enyan Dai, Xiang Zhang, Suhang Wang  
    The IEEE International Conference on Data Mining **(ICDM 2022)** [[Paper]](https://arxiv.org/abs/2210.08195) [[Code]](https://github.com/junjie-xu/HP-GMN)  
 
-2. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
+4. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
    Kwei-Herng Lai, Daochen Zha, **Junjie Xu**, Yue Zhao, Guanchu Wang, Xia Hu  
    Neural Information Processing Systems, Datasets and Benchmarks Track **(NeurIPS 2021)** [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)  
    
-3. TODS: An Automated Time Series Outlier Detection System  
+5. TODS: An Automated Time Series Outlier Detection System  
    Kwei-Herng Lai*, Daochen Zha*, Guanchu Wang, **Junjie Xu**, Yue Zhao, Devesh Kumar, Yile Chen, Purav Zumkhawaka, Mingyang Wan, Diego Martinez, Xia Hu  
    AAAI Conference on Artificial Intelligence, demo track **(AAAI 2021)** [[Paper]](https://arxiv.org/pdf/2009.09822.pdf) [[Code]](https://github.com/datamllab/tods)  
 
