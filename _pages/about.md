@@ -14,6 +14,7 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, AI f
 
 
 ## News
+* 07/2024: Two papers accepted by CIKM 2024.
 * 06/2024: Check out our preprint on distilling LLMs for multimodal graph learning. [[Paper]](https://arxiv.org/pdf/2406.01032)
 * 05/2024: Start a new position as a Research Intern at Johnson & Johnson.
 * 04/2024: Our survey paper about Trustworthy GNN is accepted by Machine Intelligence Research.
@@ -39,7 +40,7 @@ Teaching Assistant, HCDD 364W: Methods for Studying Users, PSU, Spring 2024
 
 
 ## Service
-Reviewer: ICML (2024); ICLR (2024); NeurIPS (2024, 2023, 2022); KDD (2023, 2022); WWW (2022); WSDM (2023); CIKM (2023); ICDM (2023, 2022); RecSys (2024); TKDD; PAKDD; ICWSM  
+Reviewer: ICML (2024); ICLR (2024); NeurIPS (2024, 2023, 2022); KDD (2023, 2022); WWW (2022); WSDM (2023); CIKM (2023); ICDM (2024, 2023, 2022); RecSys (2024); TKDD; PAKDD; ICWSM  
 
 
 
