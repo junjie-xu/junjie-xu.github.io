@@ -33,7 +33,7 @@ author_profile: true
 ## Conference Paper  
 1. Shape-aware Graph Spectral Learning    
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
-   ACM International Conference on Information and Knowledge Management **(CIKM 2024)** [[Paper](https://arxiv.org/pdf/2310.10064.pdf)]  
+   ACM International Conference on Information and Knowledge Management **(CIKM 2024)** [[Paper](https://arxiv.org/pdf/2310.10064.pdf)] [[Code]](https://github.com/junjie-xu/NewtonNet)  
 
 2. HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training      
    Fali Wang, Tianxiang Zhao, **Junjie Xu**, Suhang Wang    
