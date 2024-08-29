@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Junjie Xu, a third-year Ph.D. student in the College of [Information Sciences and Technology](https://ist.psu.edu) at [The Pennsylvania State University](https://www.psu.edu/). I'm co-advised by Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/) and Prof. [Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my Bachelor's degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn) in 2021. 
+Hi! I'm Junjie Xu, a 4th Ph.D. student in the College of [Information Sciences and Technology](https://ist.psu.edu) at [The Pennsylvania State University](https://www.psu.edu/). I'm co-advised by Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/) and Prof. [Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my Bachelor's degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn) in 2021. 
 
 My research interests lie in Machine Learning, Data Mining, Graph Learning, AI for Science, and Large Language Models.
 
