@@ -31,23 +31,27 @@ author_profile: true
 
 
 ## Conference Paper  
-1. Shape-aware Graph Spectral Learning    
+1. Beyond Sequence: Impact of Geometric Context for RNA Property Prediction    
+   **Junjie Xu**, Artem Moskalev, Tommaso Mansi, Mangal Prakash, Rui Liao   
+   NeurIPS 2024 Workshop on AI for New Drug Modalities **(AIDrugX @ NeurIPS 2024)**
+
+2. Shape-aware Graph Spectral Learning    
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
    ACM International Conference on Information and Knowledge Management **(CIKM 2024)** [[Paper](https://arxiv.org/pdf/2310.10064.pdf)] [[Code]](https://github.com/junjie-xu/NewtonNet)  
 
-2. HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training      
+3. HC-GST: Heterophily-aware Distribution Consistency-based Graph Self-training      
    Fali Wang, Tianxiang Zhao, **Junjie Xu**, Suhang Wang    
    ACM International Conference on Information and Knowledge Management **(CIKM 2024)**   
    
-3. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
+4. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
    **Junjie Xu**, Enyan Dai, Xiang Zhang, Suhang Wang  
    The IEEE International Conference on Data Mining **(ICDM 2022)** [[Paper]](https://arxiv.org/abs/2210.08195) [[Code]](https://github.com/junjie-xu/HP-GMN)  
 
-4. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
+5. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
    Kwei-Herng Lai, Daochen Zha, **Junjie Xu**, Yue Zhao, Guanchu Wang, Xia Hu  
    Neural Information Processing Systems, Datasets and Benchmarks Track **(NeurIPS 2021)** [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)  
    
-5. TODS: An Automated Time Series Outlier Detection System  
+6. TODS: An Automated Time Series Outlier Detection System  
    Kwei-Herng Lai*, Daochen Zha*, Guanchu Wang, **Junjie Xu**, Yue Zhao, Devesh Kumar, Yile Chen, Purav Zumkhawaka, Mingyang Wan, Diego Martinez, Xia Hu  
    AAAI Conference on Artificial Intelligence, demo track **(AAAI 2021)** [[Paper]](https://arxiv.org/pdf/2009.09822.pdf) [[Code]](https://github.com/datamllab/tods)  
 
