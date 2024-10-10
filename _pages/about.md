@@ -14,7 +14,8 @@ My research interests lie in Machine Learning, Data Mining, Graph Learning, AI f
 
 
 ## News
-* 07/2024: Two papers accepted by CIKM 2024.
+* 10/2024: One paper on Geometric RNA Modeling accepted by AIDrugX @ NeurIPS 2024.  
+* 07/2024: Two papers on Graph Spectral Learning and Graph Heterophily accepted by CIKM 2024.
 * 06/2024: Check out our preprint on distilling LLMs for multimodal graph learning. [[Paper]](https://arxiv.org/pdf/2406.01032)
 * 05/2024: Start a new position as a Research Intern at Johnson & Johnson.
 * 04/2024: Our survey paper about Trustworthy GNN is accepted by Machine Intelligence Research.
