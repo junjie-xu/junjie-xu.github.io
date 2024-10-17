@@ -33,7 +33,7 @@ author_profile: true
 ## Conference Paper  
 1. Beyond Sequence: Impact of Geometric Context for RNA Property Prediction    
    **Junjie Xu**, Artem Moskalev, Tommaso Mansi, Mangal Prakash, Rui Liao   
-   NeurIPS 2024 Workshop on AI for New Drug Modalities **(AIDrugX @ NeurIPS 2024)**
+   NeurIPS 2024 Workshop on AI for New Drug Modalities **(AIDrugX @ NeurIPS 2024)** [[Paper](http://arxiv.org/abs/2410.11933)]   
 
 2. Shape-aware Graph Spectral Learning    
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
