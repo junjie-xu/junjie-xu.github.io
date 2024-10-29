@@ -39,19 +39,23 @@ author_profile: true
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
    ACM International Conference on Information and Knowledge Management **(CIKM 2024)** [[Paper](https://arxiv.org/pdf/2310.10064.pdf)] [[Code]](https://github.com/junjie-xu/NewtonNet)  
 
-3. HC-GST: Heterophily-aware Distribution Consistency-based Graph Self-training      
+3. Enhancing Graph Neural Networks with Limited Labeled Data by Actively Distilling Knowledge from Large Language Models   
+   Quan Li, Tianxiang Zhao, Lingwei Chen, **Junjie Xu**, and Suhang Wang    
+   2024 IEEE International Conference on Big Data **BigData 2024**   
+
+4. HC-GST: Heterophily-aware Distribution Consistency-based Graph Self-training      
    Fali Wang, Tianxiang Zhao, **Junjie Xu**, Suhang Wang    
-   ACM International Conference on Information and Knowledge Management **(CIKM 2024)**   
+   ACM International Conference on Information and Knowledge Management **(CIKM 2024)** [[Paper](https://arxiv.org/pdf/2407.17787)]      
    
-4. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
+5. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
    **Junjie Xu**, Enyan Dai, Xiang Zhang, Suhang Wang  
    The IEEE International Conference on Data Mining **(ICDM 2022)** [[Paper]](https://arxiv.org/abs/2210.08195) [[Code]](https://github.com/junjie-xu/HP-GMN)  
 
-5. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
+6. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
    Kwei-Herng Lai, Daochen Zha, **Junjie Xu**, Yue Zhao, Guanchu Wang, Xia Hu  
    Neural Information Processing Systems, Datasets and Benchmarks Track **(NeurIPS 2021)** [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)  
    
-6. TODS: An Automated Time Series Outlier Detection System  
+7. TODS: An Automated Time Series Outlier Detection System  
    Kwei-Herng Lai*, Daochen Zha*, Guanchu Wang, **Junjie Xu**, Yue Zhao, Devesh Kumar, Yile Chen, Purav Zumkhawaka, Mingyang Wan, Diego Martinez, Xia Hu  
    AAAI Conference on Artificial Intelligence, demo track **(AAAI 2021)** [[Paper]](https://arxiv.org/pdf/2009.09822.pdf) [[Code]](https://github.com/datamllab/tods)  
 
