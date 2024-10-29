@@ -41,7 +41,7 @@ author_profile: true
 
 3. Enhancing Graph Neural Networks with Limited Labeled Data by Actively Distilling Knowledge from Large Language Models   
    Quan Li, Tianxiang Zhao, Lingwei Chen, **Junjie Xu**, and Suhang Wang    
-   **BigData 2024** 2024 IEEE International Conference on Big Data [[Paper](https://arxiv.org/pdf/2407.13989)]    
+   **(BigData 2024)** 2024 IEEE International Conference on Big Data [[Paper](https://arxiv.org/pdf/2407.13989)]    
 
 4. HC-GST: Heterophily-aware Distribution Consistency-based Graph Self-training      
    Fali Wang, Tianxiang Zhao, **Junjie Xu**, Suhang Wang    
