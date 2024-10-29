@@ -39,7 +39,7 @@ author_profile: true
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
    **(CIKM 2024)** ACM International Conference on Information and Knowledge Management [[Paper](https://arxiv.org/pdf/2310.10064.pdf)] [[Code]](https://github.com/junjie-xu/NewtonNet)  
 
-3. Enhancing Graph Neural Networks with Limited Labeled Data by Actively Distilling Knowledge from Large Language Models   
+3. Enhancing GNNs with Limited Labeled Data by Actively Distilling Knowledge from LLMs   
    Quan Li, Tianxiang Zhao, Lingwei Chen, **Junjie Xu**, and Suhang Wang    
    **(BigData 2024)** 2024 IEEE International Conference on Big Data [[Paper](https://arxiv.org/pdf/2407.13989)]    
 
