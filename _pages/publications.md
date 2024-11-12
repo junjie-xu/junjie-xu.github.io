@@ -28,6 +28,10 @@ author_profile: true
    Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2305.12578)]  
 
+4. A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness     
+   Fali Wang, Zhiwei Zhang, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, **Junjie Xu**, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang      
+   [[Paper](https://arxiv.org/abs/2411.03350)]      
+
 
 
 ## Conference Paper  
