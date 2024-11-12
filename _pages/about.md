@@ -10,10 +10,11 @@ redirect_from:
 
 Hi! I'm Junjie Xu, a 4th Ph.D. student in the College of [Information Sciences and Technology](https://ist.psu.edu) at [The Pennsylvania State University](https://www.psu.edu/). I'm co-advised by Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/) and Prof. [Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my Bachelor's degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn) in 2021. 
 
-My research interests lie in Machine Learning, Data Mining, Graph Learning, AI for Science, and Large Language Models.
+My research interests lie in Machine Learning, AI for Science, Graph Learning, and Large Language Models, Geometric Deep Learning, and their intersections. 
 
 
 ## News
+* 11/2024: Please check out our survey about Small Language Models. [[Paper]](https://arxiv.org/abs/2411.03350) [[Repo]](https://github.com/FairyFali/SLMs-Survey).    
 * 10/2024: One paper on Geometric RNA Modeling accepted by AIDrugX @ NeurIPS 2024.  
 * 07/2024: Two papers on Graph Spectral Learning and Graph Heterophily accepted by CIKM 2024.
 * 06/2024: Check out our preprint on distilling LLMs for multimodal graph learning. [[Paper]](https://arxiv.org/pdf/2406.01032)
