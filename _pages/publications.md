@@ -41,7 +41,7 @@ author_profile: true
 
 2. Stealing Training Graphs from Graph Neural Networks   
    Minhua Lin, Enyan Dai, **Junjie Xu**, Jinyuan Jia, Xiang Zhang, Suhang Wang   
-   **(KDD 2025)** 31th SIGKDD Conference on Knowledge Discovery and Data Mining     
+   **(KDD 2025)** 31st SIGKDD Conference on Knowledge Discovery and Data Mining     
 
 3. Shape-aware Graph Spectral Learning    
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
