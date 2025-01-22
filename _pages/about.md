@@ -14,6 +14,7 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 
 
 ## News
+* 01/2025: Two papers accepted by ICLR 2025.   
 * 11/2024: One paper on Graph Stealing Attack is accepted to KDD 2025.
 * 11/2024: Welcome to check out our survey about Small Language Models. [[Paper]](https://arxiv.org/abs/2411.03350) [[Repo]](https://github.com/FairyFali/SLMs-Survey).    
 * 10/2024: One paper on Geometric RNA Modeling accepted by AIDrugX @ NeurIPS 2024.  
@@ -21,10 +22,7 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 * 06/2024: Check out our preprint on distilling LLMs for multimodal graph learning. [[Paper]](https://arxiv.org/pdf/2406.01032)
 * 05/2024: Start a new position as a Research Intern at Johnson & Johnson.
 * 04/2024: Our survey paper about Trustworthy GNN is accepted by Machine Intelligence Research.
-* 12/2023: Invited as a reviewer for ICML 2024.
 * 10/2023: Preprint [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/pdf/2310.10064.pdf).
-* 09/2023: Invited as a reviewer for ICLR 2024.
-* 04/2023: Invited as a reviewer for NeurIPS 2023, both the main track and the datasets & benchmarks track.
 * 08/2022: One paper is accepted by ICDM 2022. Thank my collaborators and advisors!
 * 05/2022: Very pleased to pass my Qualifying Exam and become a Ph.D. candidate.
 * 04/2022: A comprehensive survey on trustworthy graph neural networks is released. [[Paper]](https://arxiv.org/pdf/2204.08570.pdf)
