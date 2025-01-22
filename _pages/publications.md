@@ -38,7 +38,7 @@ author_profile: true
    **(AIDrugX @ NeurIPS 2024)** NeurIPS 2024 Workshop on AI for New Drug Modalities [[Paper](http://arxiv.org/abs/2410.11933)]  
 
 2. Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Network   
-   Zhiwei Zhang, Minhua Lin, **Junjie Xu**, Zongyu Wu, Enyan Dai, Suhang Wang  [[Paper](https://openreview.net/forum?id=trKNi4IUiP)]
+   Zhiwei Zhang, Minhua Lin, **Junjie Xu**, Zongyu Wu, Enyan Dai, Suhang Wang  [[Paper](https://openreview.net/forum?id=trKNi4IUiP)]   
    **(ICLR 2025)** The International Conference on Learning Representations  
 
 3. Stealing Training Graphs from Graph Neural Networks   
