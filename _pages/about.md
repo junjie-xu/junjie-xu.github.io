@@ -14,6 +14,9 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 
 
 ## News
+<details>
+<summary>Click to expand/collapse news</summary>
+
 * 02/2025: One paper was selected as **Oral** at ICLR 2025.   
 * 01/2025: Two papers accepted by ICLR 2025.   
 * 11/2024: One paper on Graph Stealing Attack is accepted by KDD 2025.
@@ -22,8 +25,7 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 * 07/2024: Two papers on Graph Spectral Learning and Graph Heterophily accepted by CIKM 2024.
 * 06/2024: Check out our preprint on distilling LLMs for multimodal graph learning. [[Paper]](https://arxiv.org/pdf/2406.01032)
 * 05/2024: Start a new position as a Research Intern at Johnson & Johnson.
-* 04/2024: Our survey paper about Trustworthy GNN is accepted by Machine Intelligence Research.
-* 10/2023: Preprint [Learning Graph Filters for Spectral GNNs via Newton Interpolation](https://arxiv.org/pdf/2310.10064.pdf).
+* 04/2024: Our survey paper on Trustworthy GNN is accepted by Machine Intelligence Research.
 * 08/2022: One paper is accepted by ICDM 2022. Thank my collaborators and advisors!
 * 05/2022: Very pleased to pass my Qualifying Exam and become a Ph.D. candidate.
 * 04/2022: A comprehensive survey on trustworthy graph neural networks is released. [[Paper]](https://arxiv.org/pdf/2204.08570.pdf)
@@ -31,6 +33,8 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 * 06/2021: Finish my bachelor's degree in HUST.
 * 06/2021: One paper got accepted by the Datasets and Benchmarks track of NeurIPS 2021. [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)
 * 05/2021: Welcome to Star and use our Time-series Outlier Detection package. [[Docs]](https://tods-doc.github.io) [[Code]](https://github.com/datamllab/tods)
+
+</details>
 
 
 
