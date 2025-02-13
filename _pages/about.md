@@ -14,14 +14,16 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 
 
 ## News
-<details>
-<summary>Click to expand/collapse news</summary>
 
 * 02/2025: One paper was selected as **Oral** at ICLR 2025.   
 * 01/2025: Two papers accepted by ICLR 2025.   
 * 11/2024: One paper on Graph Stealing Attack is accepted by KDD 2025.
 * 11/2024: Welcome to check out our survey about Small Language Models. [[Paper]](https://arxiv.org/abs/2411.03350) [[Repo]](https://github.com/FairyFali/SLMs-Survey).    
 * 10/2024: One paper on Geometric RNA Modeling accepted by AIDrugX @ NeurIPS 2024.  
+
+<details>
+<summary>More news...</summary>
+<br>
 * 07/2024: Two papers on Graph Spectral Learning and Graph Heterophily accepted by CIKM 2024.
 * 06/2024: Check out our preprint on distilling LLMs for multimodal graph learning. [[Paper]](https://arxiv.org/pdf/2406.01032)
 * 05/2024: Start a new position as a Research Intern at Johnson & Johnson.
@@ -33,8 +35,8 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 * 06/2021: Finish my bachelor's degree in HUST.
 * 06/2021: One paper got accepted by the Datasets and Benchmarks track of NeurIPS 2021. [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)
 * 05/2021: Welcome to Star and use our Time-series Outlier Detection package. [[Docs]](https://tods-doc.github.io) [[Code]](https://github.com/datamllab/tods)
-
 </details>
+
 
 
 
