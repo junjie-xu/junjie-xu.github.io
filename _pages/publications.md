@@ -19,12 +19,16 @@ author_profile: true
 1. LLM and GNN are Complementary: Distilling LLM for Multimodal Graph Learning  
    **Junjie Xu**, Zongyu Wu, Minhua Lin, Xiang Zhang, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2406.01032)]
+   
+2. LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models  
+   Zongyu Wu, Yuwei Niu, Hongcheng Gao, Minhua Lin, Zhiwei Zhang, Zhifang Zhang, Qi Shi, Yilong Wang, Sike Fu, **Junjie Xu**, Junjie Ao, Enyan Dai, Lei Feng, Xiang Zhang, Suhang Wang  
+   [[Paper](https://arxiv.org/abs/2502.12359)]  
 
-2. A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness     
+3. A Comprehensive Survey of Small Language Models in the Era of Large Language Models: Techniques, Enhancements, Applications, Collaboration with LLMs, and Trustworthiness     
    Fali Wang, Zhiwei Zhang, Xianren Zhang, Zongyu Wu, Tzuhao Mo, Qiuhao Lu, Wanjing Wang, Rui Li, **Junjie Xu**, Xianfeng Tang, Qi He, Yao Ma, Ming Huang, Suhang Wang      
    [[Paper](https://arxiv.org/abs/2411.03350)]    
 
-3. Self-Explainable Graph Neural Networks for Link Prediction  
+4. Self-Explainable Graph Neural Networks for Link Prediction  
    Huaisheng Zhu, Dongsheng Luo, Xianfeng Tang, **Junjie Xu**, Hui Liu, Suhang Wang    
    [[Paper](https://arxiv.org/pdf/2305.12578)]  
 
