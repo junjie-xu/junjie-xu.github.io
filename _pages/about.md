@@ -14,7 +14,7 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 
 
 ## News
-* 02/2025: Please check out our paper on hallucinations in Vision-Language Models.   
+* 02/2025: Please check out our paper on the role of language priors in Vision-Language Models.    
 * 02/2025: One paper was selected as **Oral** at ICLR 2025.   
 * 01/2025: Two papers accepted by ICLR 2025.   
 * 11/2024: One paper on Graph Stealing Attack is accepted by KDD 2025.  
