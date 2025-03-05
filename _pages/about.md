@@ -14,6 +14,7 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 
 
 ## News
+* 03/2025: One paper accepted for Oral Presentation by AI4NA Workshop @ ICLR 2025.   
 * 02/2025: Please check out our paper on the role of language priors in Vision-Language Models.    
 * 02/2025: One paper was selected as **Oral** at ICLR 2025.   
 * 01/2025: Two papers accepted by ICLR 2025.   
@@ -41,7 +42,7 @@ Teaching Assistant, HCDD 364W: Methods for Studying Users, PSU, Spring 2024
 
 
 ## Service
-Reviewer: ICML (2024); ICLR (2024); NeurIPS (2024, 2023, 2022); KDD (2023, 2022); WWW (2022); WSDM (2023); CIKM (2023); ICDM (2024, 2023, 2022); RecSys (2024); TKDD; PAKDD; ICWSM  
+Reviewer: NeurIPS (2024, 2023, 2022); ICLR (2025, 2024); ICML (2025, 2024); AAAI (2025); ICDM (2024, 2023, 2022); LoG (2023); KDD (2023, 2022); WSDM (2023); CIKM (2023); WWW (2022); TKDD; PAKDD; ICWSM
 
 
 

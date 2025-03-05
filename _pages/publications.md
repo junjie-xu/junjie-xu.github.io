@@ -36,40 +36,44 @@ author_profile: true
 
 
 ## Conference Paper  
-1. Beyond Sequence: Impact of Geometric Context for RNA Property Prediction    
+1. HARMONY: A Multi-Representation Framework for RNA Property Prediction   
+   **Junjie Xu**, Artem Moskalev, Tommaso Mansi, Mangal Prakash, Rui Liao   
+   **(AI4NA @ ICLR 2025)** ICLR 2025 Workshop on AI for Nucleic Acids  [[Paper](https://openreview.net/forum?id=nzUsRhtnBa)]  
+
+2. Beyond Sequence: Impact of Geometric Context for RNA Property Prediction    
    **Junjie Xu**, Artem Moskalev, Tommaso Mansi, Mangal Prakash, Rui Liao    
    **(ICLR 2025)** The International Conference on Learning Representations  [[Paper](https://openreview.net/forum?id=9htTvHkUhh)]  
    **(AIDrugX @ NeurIPS 2024)** NeurIPS 2024 Workshop on AI for New Drug Modalities [[Paper](http://arxiv.org/abs/2410.11933)]  
 
-2. Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Network   
+3. Robustness-Inspired Defense Against Backdoor Attacks on Graph Neural Network   
    Zhiwei Zhang, Minhua Lin, **Junjie Xu**, Zongyu Wu, Enyan Dai, Suhang Wang  [[Paper](https://openreview.net/forum?id=trKNi4IUiP)]   
    **(ICLR 2025)** The International Conference on Learning Representations  
 
-3. Stealing Training Graphs from Graph Neural Networks   
+4. Stealing Training Graphs from Graph Neural Networks   
    Minhua Lin, Enyan Dai, **Junjie Xu**, Jinyuan Jia, Xiang Zhang, Suhang Wang   
    **(KDD 2025)** 31st SIGKDD Conference on Knowledge Discovery and Data Mining     
 
-4. Shape-aware Graph Spectral Learning    
+5. Shape-aware Graph Spectral Learning    
    **Junjie Xu**, Enyan Dai, Dongsheng Luo, Xiang Zhang, Suhang Wang    
    **(CIKM 2024)** ACM International Conference on Information and Knowledge Management [[Paper](https://arxiv.org/pdf/2310.10064.pdf)] [[Code]](https://github.com/junjie-xu/NewtonNet)  
 
-5. Enhancing GNNs with Limited Labeled Data by Actively Distilling Knowledge from LLMs   
+6. Enhancing GNNs with Limited Labeled Data by Actively Distilling Knowledge from LLMs   
    Quan Li, Tianxiang Zhao, Lingwei Chen, **Junjie Xu**, and Suhang Wang    
    **(BigData 2024)** 2024 IEEE International Conference on Big Data [[Paper](https://arxiv.org/pdf/2407.13989)]    
 
-6. HC-GST: Heterophily-aware Distribution Consistency-based Graph Self-training      
+7. HC-GST: Heterophily-aware Distribution Consistency-based Graph Self-training      
    Fali Wang, Tianxiang Zhao, **Junjie Xu**, Suhang Wang    
    **(CIKM 2024)** ACM International Conference on Information and Knowledge Management [[Paper](https://arxiv.org/pdf/2407.17787)]      
    
-7. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
+8. HP-GMN: Graph Memory Networks for Heterophilous Graphs  
    **Junjie Xu**, Enyan Dai, Xiang Zhang, Suhang Wang  
    **(ICDM 2022)** The IEEE International Conference on Data Mining [[Paper]](https://arxiv.org/abs/2210.08195) [[Code]](https://github.com/junjie-xu/HP-GMN)  
 
-8. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
+9. Revisiting Time Series Outlier Detection: Definitions and Benchmarks  
    Kwei-Herng Lai, Daochen Zha, **Junjie Xu**, Yue Zhao, Guanchu Wang, Xia Hu  
    **(NeurIPS 2021)** Neural Information Processing Systems, Datasets and Benchmarks Track [[Paper]](https://openreview.net/pdf?id=r8IvOsnHchr) [[Code]](https://github.com/datamllab/tods)  
    
-9. TODS: An Automated Time Series Outlier Detection System  
+10. TODS: An Automated Time Series Outlier Detection System  
    Kwei-Herng Lai*, Daochen Zha*, Guanchu Wang, **Junjie Xu**, Yue Zhao, Devesh Kumar, Yile Chen, Purav Zumkhawaka, Mingyang Wan, Diego Martinez, Xia Hu  
    **(AAAI 2021)** AAAI Conference on Artificial Intelligence, demo track [[Paper]](https://arxiv.org/pdf/2009.09822.pdf) [[Code]](https://github.com/datamllab/tods)  
 
