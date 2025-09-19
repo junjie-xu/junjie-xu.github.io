@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Junjie Xu, a 4th Ph.D. student in the College of [Information Sciences and Technology](https://ist.psu.edu) at [The Pennsylvania State University](https://www.psu.edu/). I'm co-advised by Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/) and Prof. [Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my Bachelor's degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn) in 2021. 
+Hi! I'm Junjie Xu, a final-year Ph.D. student in the College of [Information Sciences and Technology](https://ist.psu.edu) at [The Pennsylvania State University](https://www.psu.edu/). I'm co-advised by Prof. [Suhang Wang](https://suhangwang.ist.psu.edu/) and Prof. [Xiang Zhang](https://faculty.ist.psu.edu/xzz89/). I received my Bachelor's degree from [Huazhong University of Science and Technology](http://english.hust.edu.cn) in 2021. 
 
-My research interests lie in Machine Learning, AI for Science, Graph Learning, and Large Language Models, Geometric Deep Learning, and their intersections. 
+My research interests lie in AI for Science, LLM, Graph Learning, Geometric Deep Learning, and their intersections.  
 
 
 ## News
+* 09/2025: One paper accepted by NeurIPS 2025.    
+* 08/2025: One paper accepted by TIST.    
 * 05/2025: One paper accepted as **Spotlight** by ICML 2025.    
+* 05/2024: Start a new position as a ML Intern at Pinterest.   
 * 03/2025: One paper accepted as **Oral** Presentation by AI4NA Workshop @ ICLR 2025.     
 * 02/2025: One paper was selected as **Oral** at ICLR 2025.   
 * 01/2025: Two papers accepted by ICLR 2025.   
@@ -35,14 +38,20 @@ My research interests lie in Machine Learning, AI for Science, Graph Learning, a
 
 
 ## Teaching
-Teaching Assistant, DS 305: Algorithmic Methods & Tools, PSU, Fall 2023  
-Teaching Assistant, IST 597: Machine Learning on Graphs, PSU, Spring 2024  
+Teaching Assistant, ETI 461: Database Management and Administration, PSU, Fall 2025  
+Teaching Assistant, DS 310: Machine Learning for Data Analytics, PSU, Spring 2025  
 Teaching Assistant, HCDD 364W: Methods for Studying Users, PSU, Spring 2024  
+Teaching Assistant, IST 597: Machine Learning on Graphs, PSU, Spring 2024  
+Teaching Assistant, DS 305: Algorithmic Methods & Tools, PSU, Fall 2023  
+
+
 
 
 
 ## Service
-Reviewer: NeurIPS (2024, 2023, 2022); ICLR (2025, 2024); ICML (2025, 2024); AAAI (2025); ICDM (2024, 2023, 2022); LoG (2023); KDD (2023, 2022); WSDM (2023); CIKM (2023); WWW (2022); TKDD; PAKDD; ICWSM
+Reviewer: NeurIPS (2025, 2024, 2023, 2022); ICLR (2026, 2025, 2024); ICML (2025, 2024); AAAI (2026, 2025); ICDM (2024,
+2023, 2022); LoG (2024, 2023); KDD (2023, 2022); WSDM (2023); CIKM (2023); WWW (2022); TKDD; PAKDD;
+ICWSM
 
 
 
