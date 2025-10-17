@@ -12,6 +12,8 @@ Hi! I'm Junjie Xu, a final-year Ph.D. student in the College of [Information Sci
 
 My research interests lie in AI for Science, LLM, Graph Learning, Geometric Deep Learning, and their intersections.  
 
+<mark>I'm actively looking for full-time industry positions and would love to connect if you think there's a potential fit.</mark>
+
 
 ## News
 * 09/2025: One paper accepted by NeurIPS 2025.    
