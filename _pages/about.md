@@ -12,7 +12,7 @@ Hi! I'm Junjie Xu, a final-year Ph.D. student in the College of [Information Sci
 
 My research interests lie in AI for Science, LLM, Graph Learning, Geometric Deep Learning, and their intersections.  
 
-<mark>I'm actively looking for full-time industry positions and would love to connect if you think there's a potential fit.</mark>
+<span style="color:rgb(232, 39, 84); font-weight: bold;">I'm actively looking for full-time industry positions and would love to connect if you think there's a potential fit.</span>
 
 
 ## News
